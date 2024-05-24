@@ -1,2 +1,4 @@
 games.npz
 games_small.npz
+games_medium.npz
+.ipynb_checkpoints
